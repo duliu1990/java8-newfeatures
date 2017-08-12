@@ -6,6 +6,7 @@ import java.util.Locale;
 
 /**
  * Created by duliu on 10/8/2017.
+ * 方法的引用演示
  */
 public class MethodReference {
 
