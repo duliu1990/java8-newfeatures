@@ -15,10 +15,11 @@ Java8 New Features
 
 在java.util.function包之中最为核心的只有四个接口：
 
-功能型接口：Function
-消费型接口：Consumer
-供给型接口：Supplier
-断言型接口：Predicate
+功能型接口：Function 
+消费型接口：Consumer 
+供给型接口：Supplier 
+断言型接口：Predicate 
+
 由于内建的函数式接口提供，所以让开发标准进行了统一，也就是说日后的用户不再需要自己去开发函数式接口，而直接使用已经提供好的接口进行函数式编程（Lamda编程）。
 
 <a href="http://www.devnp.com/2017/08/12/java-8-%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E5%86%85%E5%BB%BA%E5%87%BD%E6%95%B0%E5%BC%8F%E6%8E%A5%E5%8F%A3/">JAVA 8 新特性之内建函数式接口</a>
